@@ -11,7 +11,7 @@ html{
 }
 
 body{
-    background-image: url("images/mountains-g92f926639_640.png"); 
+    background-image: url("images/paisajeatardecer.jpg"); 
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -38,10 +38,16 @@ body{
     display: block;
     width: 70%;
     height: calc(100vw*30/100);
-    border: 1px solid red;
+    border: 1px solid rgba(184, 66, 66, 0.861);
     margin: 1.25rem auto;
 }
 
+.centrar{
+    width: 45%;
+    display: block;
+    margin: 10px auto;
+    
+}
 footer{
     display: flex;
     justify-content: center;
