@@ -11,7 +11,7 @@ html{
 }
 
 body{
-    background-image: url("images/fondo1.jpg"); 
+    background-image: url("images/mountains-g92f926639_640.png"); 
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -29,7 +29,7 @@ body{
     width: 70%;
     border: 4px dotted red;
     border-radius: 30rem;
-    background-color: aquamarine;
+    background-color: rgba(10, 175, 120, 0.016);
     text-align: center;
 }
 
@@ -74,5 +74,8 @@ footer{
 .buttons a:hover{
     transform: scale(1.5); 
     background-color: rgba(189, 18, 103, 0.7);
+}
+p{
+    color: #fff;
 }
 
